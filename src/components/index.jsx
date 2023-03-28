@@ -6,6 +6,8 @@ import Contact from './Contact';
 import About from './About'
 import Faq from './FAQ/Faq';
 import Home from './Home';
+import Registration from './registration/Registration'
+import SignUp from './sign up/SignUp'
 
 export {
   Hero,
@@ -17,4 +19,6 @@ export {
   About,
   Faq,
   Home,
+  Registration,
+  SignUp
 }
